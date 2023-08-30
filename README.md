@@ -2,8 +2,8 @@
 
 First clone the repository from Github and switch to the new directory:
 
-    $ git clone git@github.com/USERNAME/{{ project_name }}.git
-    $ cd {{ project_name }}
+    $ git clone https://github.com/pravan97/microblogBE.git
+    $ cd microblogBE
     
 Activate the virtualenv for your project.
     
