@@ -16,7 +16,10 @@ Then simply apply the migrations:
   
     $ python manage.py makemigrations  
     $ python manage.py migrate
-    
+
+Create a superuser
+
+    $ python manage.py createsuperuser
 
 You can now run the development server:
 
