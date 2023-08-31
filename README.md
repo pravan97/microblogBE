@@ -16,8 +16,10 @@ Then simply apply the migrations:
   
     $ python manage.py makemigrations  
     $ python manage.py migrate
+    
 It might not migrate properly since it doesnt have migrations folder
 run following command
+
     $python manage.py migrate --run-syncdb
 
 Create a superuser
